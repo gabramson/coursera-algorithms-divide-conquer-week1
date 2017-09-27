@@ -12,7 +12,7 @@ namespace Week1
             int sizeM1 = m1.Length,
                 sizeM2 = m2.Length,
                 maxSize = Math.Max(sizeM1, sizeM2),
-                splitSize = PowerOfTwo((int)(Math.Ceiling(Math.Log(maxSize,2)) - 1));
+                splitSize = Raise2ToThePowerOf((int)(Math.Ceiling(Math.Log(maxSize,2)) - 1));
             string a, b, c, d, ac, bd, ad, bc, acSuffix, adbcSuffix;
             if ((sizeM1 < 2) && (sizeM2 < 2)){
                 return (Int32.Parse(m1) * Int32.Parse(m2)).ToString();
@@ -50,9 +50,9 @@ namespace Week1
             }
         }
 
-        private static int PowerOfTwo(int exponent)
+        private static int Raise2ToThePowerOf(int exponent)
         {
-            return exponent == 0 ? 1 : 2 << exponent - 1;
+            return 1 << exponent;
         }
 
         public static string Add(string a, string b)

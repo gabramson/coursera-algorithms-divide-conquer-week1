@@ -5797,7 +5797,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\garya\\.nuget\\packages\\": {},
+    "C:\\Users\\Gary\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -5806,17 +5806,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\projects\\C#\\Coursera\\Algorithms-Divide-Conquer\\Week1\\Week1Test\\Week1Test.csproj",
+      "projectUniqueName": "D:\\Projects\\C#\\algorithms-divide-conquer\\Week1\\Week1Test\\Week1Test.csproj",
       "projectName": "Week1Test",
-      "projectPath": "C:\\projects\\C#\\Coursera\\Algorithms-Divide-Conquer\\Week1\\Week1Test\\Week1Test.csproj",
-      "packagesPath": "C:\\Users\\garya\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\C#\\Coursera\\Algorithms-Divide-Conquer\\Week1\\Week1Test\\obj\\",
+      "projectPath": "D:\\Projects\\C#\\algorithms-divide-conquer\\Week1\\Week1Test\\Week1Test.csproj",
+      "packagesPath": "C:\\Users\\Gary\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\C#\\algorithms-divide-conquer\\Week1\\Week1Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\garya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gary\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5829,8 +5829,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\projects\\C#\\Coursera\\Algorithms-Divide-Conquer\\Week1\\Week1\\Week1.csproj": {
-              "projectPath": "C:\\projects\\C#\\Coursera\\Algorithms-Divide-Conquer\\Week1\\Week1\\Week1.csproj"
+            "D:\\Projects\\C#\\algorithms-divide-conquer\\Week1\\Week1\\Week1.csproj": {
+              "projectPath": "D:\\Projects\\C#\\algorithms-divide-conquer\\Week1\\Week1\\Week1.csproj"
             }
           }
         }
