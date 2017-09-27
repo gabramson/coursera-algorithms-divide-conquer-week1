@@ -41,7 +41,7 @@ namespace Week1
                 }
                 ac = Multiply(a, c);
                 bd = Multiply(b, d);
-                ad = Multiply(a,d);
+                ad = Multiply(a, d);
                 bc = Multiply(b, c);
                 acSuffix = new string('0', 2*splitSize);
                 adbcSuffix = new string('0', splitSize);
@@ -67,7 +67,7 @@ namespace Week1
             if (b=="0") { return a; };
             int sizeA = a.Length,
                 sizeB = b.Length,
-                maxResult = Math.Max(sizeA, sizeB)+1;
+                maxResult = sizeA+1;
 
             char[] charArrayA = ReverseCharArray(a.ToCharArray()),
                     charArrayB = ReverseCharArray(b.ToCharArray()),
