@@ -20,12 +20,24 @@ public static class BigMath
             {
                 temp[i] = charArrayA[i];
             }
-            int digitSum = sumChars(temp[0], charArrayB[0]);
-            temp[0] = NumToASCII(digitSum);
-            if (digitSum > 9)             {
-                temp[1] = temp[1] == 0 ? '1' : NumToASCII(sumChars(temp[1], '1'));
+            for (int i = 0; i < sizeB; i++) {
+                int digitSum = sumChars(temp[i], charArrayB[i]);
+                temp[i] = NumToASCII(digitSum);
+                int j = 1;
+                while (digitSum > 9) {
+                    if (temp[i + j] == 0)
+                    {
+                        temp[i + j] = '1';
+                        digitSum = 0;
+                    }
+                    else
+                    {
+                        digitSum = sumChars(temp[i + j], '1');
+                        temp[i + j] = NumToASCII(digitSum);
+                        j += 1;
+                    }
+                }
             }
-            
             if (temp[maxResult-1] == 0)
             {
                 char[] temp2 = new char[maxResult - 1];

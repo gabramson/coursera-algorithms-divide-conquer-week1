@@ -23,5 +23,19 @@ namespace Week1Test
         {
             Assert.AreEqual<string>("23", BigMath.Add("11", "12"));
         }
+
+
+        [TestMethod]
+        public void TestAddWithCascade()
+        {
+            Assert.AreEqual<string>("100", BigMath.Add("99", "1"));
+        }
+
+        [TestMethod]
+        public void TestBigNumbers()
+        {
+            Assert.AreEqual<string>("113414649046", BigMath.Add("42342092773", "71072556273"));
+        }
+
     }
 }
