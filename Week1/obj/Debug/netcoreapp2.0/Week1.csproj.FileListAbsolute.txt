@@ -1,0 +1,11 @@
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\bin\Debug\netcoreapp2.0\Week1.deps.json
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\bin\Debug\netcoreapp2.0\Week1.runtimeconfig.json
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\bin\Debug\netcoreapp2.0\Week1.runtimeconfig.dev.json
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\bin\Debug\netcoreapp2.0\Week1.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\bin\Debug\netcoreapp2.0\Week1.pdb
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\obj\Debug\netcoreapp2.0\Week1.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\obj\Debug\netcoreapp2.0\Week1.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\obj\Debug\netcoreapp2.0\Week1.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\obj\Debug\netcoreapp2.0\Week1.AssemblyInfo.cs
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\obj\Debug\netcoreapp2.0\Week1.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1\obj\Debug\netcoreapp2.0\Week1.pdb

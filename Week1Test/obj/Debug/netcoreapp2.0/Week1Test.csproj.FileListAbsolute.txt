@@ -1,0 +1,16 @@
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1Test.deps.json
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1Test.runtimeconfig.json
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1Test.runtimeconfig.dev.json
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1Test.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1Test.pdb
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\obj\Debug\netcoreapp2.0\Week1Test.csprojResolveAssemblyReference.cache
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\obj\Debug\netcoreapp2.0\Week1Test.csproj.CoreCompileInputs.cache
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\obj\Debug\netcoreapp2.0\Week1Test.AssemblyInfoInputs.cache
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\obj\Debug\netcoreapp2.0\Week1Test.AssemblyInfo.cs
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\obj\Debug\netcoreapp2.0\Week1Test.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\obj\Debug\netcoreapp2.0\Week1Test.pdb
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1.dll
+C:\projects\C#\Coursera\Algorithms-Divide-Conquer\Week1\Week1Test\bin\Debug\netcoreapp2.0\Week1.pdb
